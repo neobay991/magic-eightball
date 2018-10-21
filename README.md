@@ -1,4 +1,4 @@
-# Magic Eightball
+# Magic 8-Ball
 
 A simple implementation of the Magic Eightball game using JavaScript.
 
